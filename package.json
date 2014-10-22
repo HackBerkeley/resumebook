@@ -1,25 +1,19 @@
 {
   "name": "resumebook",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "EECS Resume Book",
-  "main": "index.js",
+  "main": "yes",
   "scripts": {
-    "start": "node index.js"
-  },
-  "dependencies": {
-    "express": "~4.9.x"
-  },
-  "engines": {
-    "node": "0.10.x"
+    "test": "node index.js",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/HackBerkeley/resumebook"
+    "url": "https://github.com/HackBerkeley/resumebook.git"
   },
-  "keywords": [
-    "node",
-    "heroku",
-    "express"
-  ],
-  "license": "MIT"
+  "author": "Apollo Jain, Sidd Karamcheti,
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HackBerkeley/resumebook/issues"
+  }
 }
