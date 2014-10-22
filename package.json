@@ -4,16 +4,11 @@
   "description": "EECS Resume Book",
   "main": "yes",
   "scripts": {
-    "test": "node index.js",
-    "start": "node server.js"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/HackBerkeley/resumebook.git"
   },
-  "author": "Apollo Jain, Sidd Karamcheti,
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/HackBerkeley/resumebook/issues"
-  }
+  "author": "Apollo Jain, Sidd Karamcheti
 }
