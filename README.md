@@ -2,6 +2,13 @@ Resume Book
 ==========
 Literally completely recycled code. Midterms = laziness. 
 
+Heroku
+---
+
+Access the app here: http://eecs-resume-book.herokuapp.com/
+
+We still need S3 credentials, and its being hosted by me (Sidd) on my Heroku account, but let me know if H@B has its own Heroku, so I can transfer it over.
+
 Usage
 ---
 
