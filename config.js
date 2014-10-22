@@ -1,4 +1,4 @@
-exports.port = process.env.port || 8000;
+exports.port = process.env.PORT || 8000;
 exports.upload_dir = './uploads';
 
 exports.s3 = {
